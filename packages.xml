@@ -1,5 +1,6 @@
 <application>
   <component name="PyPackageService">
+    <option name="virtualEnvBasePath" value="H:\django\mystock" />
     <option name="LAST_TIME_CHECKED" value="1478165755669" />
   </component>
 </application>
